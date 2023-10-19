@@ -1,0 +1,76 @@
+header{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+body, h1, h2, h3, p{
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    font-size: 40px;
+}
+#About{
+    text-align: center;
+    padding: 40x;
+}
+#About img{
+    border-radius: 50%;
+}
+#Skills{
+    background-color: #f5f5f5;
+    padding: 40px;
+}
+#Skills{
+    list-style-type: none;
+}
+#Project{
+    padding: 40px;
+}
+.Project{
+    margin-bottom: 30px;
+}
+.Project img{
+    margin-left: 25%;
+    max-width: 50%;
+    height: 50%;
+}
+#Resume{
+    text-align: center;
+    padding: 50px;
+    background-color: #333;
+    color: #fff;
+}
+#Resume a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+#Contact{
+    text-align: center;
+    padding: 40px;
+    background-color: #f5f5f5;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+footer ul{
+    list-style-type: none;
+}
+footer ul li{
+    display: inline;
+    margin-right: 10px;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+body {
+     background-image: url('Background.PNG'); 
+     background-size: cover; 
+     background-repeat: no-repeat; 
+}
